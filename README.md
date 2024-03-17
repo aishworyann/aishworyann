@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate security researcher and software developer </h3>
 
-
+<br/>
 
 <div align="center">
  
@@ -32,42 +32,43 @@
 </div>
 
  <hr/>
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,python,javascript,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=kali,linux,blender,ps,vscode,github,figma,git," />
     
 </div>
 
-
+<br/>
 <hr/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  
+  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aishworyann/aishworyann/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 <hr/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h2 align="center">⚡ Stats ⚡</h2>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=aishworyann&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=aishworyann&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
+  <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aishworyann&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<br/>
 <div align="center">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Signing+OFF!+👋;" />
 </h1>
 </div>
-
+<br/>
 
 <hr/>
